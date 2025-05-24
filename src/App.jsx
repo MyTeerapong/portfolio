@@ -28,13 +28,7 @@ const experiences = [
     role: 'นักพัฒนาซอฟต์แวร์ฝึกงาน',
     period: 'มิ.ย. 2024 - ส.ค. 2024',
     details: 'ฝึกงานด้านพัฒนาเว็บด้วย React และ Node.js ร่วมทีม Agile ทำระบบจัดการข้อมูลลูกค้าและรายงานผล',
-  },
-  {
-    company: 'บริษัท XYZ จำกัด',
-    role: 'นักวิเคราะห์ข้อมูลฝึกงาน',
-    period: 'ก.ย. 2023 - ธ.ค. 2023',
-    details: 'วิเคราะห์ข้อมูลด้วย Python และทำ Dashboard สรุปผลสำหรับฝ่ายบริหาร',
-  },
+  }
 ];
 
 const skills = ['JavaScript', 'React', 'Node.js', 'Bootstrap', '.Net', 'MySQL', 'Sql server'];
